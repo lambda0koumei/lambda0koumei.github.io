@@ -1,7 +1,9 @@
-# GitHub
-https://github.com/lambda0koumei/lambda0koumei.github.io
 
-https://github.com/lambda0koumei/.emacs.d
+
+# GitHub
+(https://github.com/lambda0koumei/lambda0koumei.github.io)
+
+(https://github.com/lambda0koumei/.emacs.d)
 
 
 # 開発環境
@@ -10,6 +12,10 @@ phpstorm
 emacs
 karabiner-elements
 alfred
+
+# markdownメモ
+- # 見出し
+- [リンク名](アドレス)
 
 
 # emacsメモ
