@@ -14,8 +14,8 @@ karabiner-elements
 alfred
 
 # markdownメモ
-- # 見出し
-- [リンク名](アドレス)
+- \# 見出し
+- \[リンク名\]\(アドレス\)
 
 
 # emacsメモ
