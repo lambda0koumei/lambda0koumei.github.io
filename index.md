@@ -7,11 +7,11 @@
 
 
 # 開発環境
-macbook-air M1
-phpstorm
-emacs
-karabiner-elements
-alfred
+- macbook-air M1
+- phpstorm
+- emacs
+- karabiner-elements
+- alfred
 
 # markdownメモ
 \# 見出し
