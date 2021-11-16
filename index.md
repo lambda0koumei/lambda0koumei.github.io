@@ -20,17 +20,18 @@
 
 # emacsメモ
 ## ブックマーク
-ブックマーク登録
+- ブックマーク登録
 c-x r m
-ブックマークリストを表示
+- ブックマークリストを表示
 c-x r l
-任意のブックマークに移動
+- 任意のブックマークに移動
 c-x r b
 
 
-# gitメモ
-git add .
-git commit -m "add"
-git push -u origin master
 
--u = --set-upstream
+# gitメモ
+- git add.
+- git commit -m "add"
+- git push -u origin master(-u = --set-upstream)
+
+
